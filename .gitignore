@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+build/
+desktop/build/
+desktop/CMakeCache.txt
+desktop/CMakeFiles/
+desktop/out/
+desktop/*.exe
+desktop/*.pdb
+desktop/*.ilk
+desktop/.vs/
+.vite/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+*.log
