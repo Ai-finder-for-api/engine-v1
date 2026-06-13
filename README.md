@@ -6,7 +6,8 @@ Quantum Forge is an ambitious, early-stage, passion-driven game engine that aims
 
 > **Warning**: This project is in **very early development**. Expect bugs, missing features, and occasional chaos.
 
-![Screenshot](screenshot.png) <!-- Add your best screenshot here later -->
+![Screenshot](quantum_forge.png)
+![Screenshot](quantum_smith.png)
 
 ## Philosophy
 
